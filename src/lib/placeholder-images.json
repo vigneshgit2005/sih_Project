@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-home",
+      "description": "A serene and welcoming illustration of diverse students in a calm, supportive environment.",
+      "imageUrl": "https://picsum.photos/seed/hero-home/1200/800",
+      "imageHint": "diverse students"
+    },
+    {
+      "id": "feature-chatbot",
+      "description": "An abstract illustration representing AI and communication.",
+      "imageUrl": "https://picsum.photos/seed/feature-chatbot/600/400",
+      "imageHint": "AI communication"
+    },
+    {
+      "id": "feature-booking",
+      "description": "A graphic of a calendar and clock, symbolizing scheduling.",
+      "imageUrl": "https://picsum.photos/seed/feature-booking/600/400",
+      "imageHint": "calendar schedule"
+    },
+    {
+      "id": "feature-resources",
+      "description": "An illustration of books and digital media icons.",
+      "imageUrl": "https://picsum.photos/seed/feature-resources/600/400",
+      "imageHint": "books media"
+    },
+    {
+      "id": "feature-forum",
+      "description": "An abstract depiction of a community network or conversation bubbles.",
+      "imageUrl": "https://picsum.photos/seed/feature-forum/600/400",
+      "imageHint": "community network"
+    }
+  ]
 }
